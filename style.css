@@ -34,23 +34,28 @@ background-size: cover;
     font-size: 100px;
 }
 .paragraphs{
+
    position: absolute;
    top: 1%;
    left: 42%;
+   
     margin-left: -20px;
     margin-right: 20px;
     margin-top: 20px;
    padding: 10px;
    background-color:white;
    font-family: 'Norse Bold';
+   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 .forms1{
+   
     padding: 20px;
     background-color: whitesmoke;
     border: 1px solid;
     padding: 10px;
     box-shadow: 5px 10px #888888;
 }
+
 button{
     margin: 30px;
     margin-left: -0;
@@ -64,14 +69,17 @@ button{
 }
 .account{
     position: absolute;
-    top: 95%;
-    left: 42%;
+    top: 97%;
+    left: 2%;
 }
 .formss{
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+  
+  
+   
     padding: 5px;
+    
    
     
 }
@@ -84,8 +92,7 @@ button{
     width: 25%;
     height: initial;
     padding: 8px;
-   
-
+    flex: 1;
 }
  .button button:hover {
     background-color: #76AEED;
