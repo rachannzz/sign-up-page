@@ -48,7 +48,7 @@ background-size: cover;
    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 .forms1{
-   
+    
     padding: 20px;
     background-color: whitesmoke;
     border: 1px solid;
@@ -89,7 +89,7 @@ button{
 .formss textarea {
     
     background-color:white;
-    width: 25%;
+    width: 100%;
     height: initial;
     padding: 8px;
     flex: 1;
@@ -105,7 +105,16 @@ button{
     border:2px blue ;
     box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
   }
+ 
+  .section2{
+    padding-left: 100px;
   
+    
+   
+  }
+ .final{
+    display: flex;
+ }
   
 
 
