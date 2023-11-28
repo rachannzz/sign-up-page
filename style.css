@@ -1,5 +1,9 @@
 @import url(https://db.onlinewebfonts.com/c/7d460b18433753a097e5bc2bad7c8dd9?family=Norse+Bold);
-
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
 .container{
 display: flex;
 flex-direction: column;
