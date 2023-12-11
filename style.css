@@ -34,7 +34,7 @@ background-size: cover;
     font-size: 100px;
 }
 .paragraphs{
-
+    height: 94vh;
    position: absolute;
    top: 1%;
    left: 42%;
@@ -69,7 +69,7 @@ button{
 }
 .account{
     position: absolute;
-    top: 97%;
+    top: 75%;
     left: 2%;
 }
 .formss{
